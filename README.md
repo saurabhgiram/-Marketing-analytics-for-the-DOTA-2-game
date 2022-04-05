@@ -1,1 +1,8 @@
 # -Marketing-analytics-for-the-DOTA-2-game
+• As part of this project- we analyse the marketing strategy and how it is shaping the DOTA 2 strategic planning in terms of marketing. 
+• We analyse whether the Twitch views impact the number of players. We found that it does not impact much but in lesser terms and from a short-term perspective it impacts. We also highlighted in the report submitted that the company encourage more views on Twitch because of its role in shaping the community for the games in the recent half a decade.
+• We also analysed the pricing and promotional strategies of DOTA 2 and their effects on the player base and predicts the number of players for the next 14 days.
+• To analyse the Twitch viewer's impact on the number of players and promotional strategy we built Regression, AR, ARDL, VAR, and ETS dynamic models with TVP.
+• DOTA 2 has an effective promotional strategy overall and it is based on sponsoring events in six regions across the globe under Dota Pro Circuit. To increase the player, count in the next 14 days outbound and contribution strategy is recommended in this report. 
+• We conclude that DOTA 2 is a free-to-play game that attracts players to try the game and thus makes it the most effective pricing strategy. This strategy leads to in-game microtransactions which is an important revenue source for Dota2. It also offers subscription-based strategic assistant guides for new and existing players.
+• The report concludes with the next 14 days’ forecast of players being evaluated using four forecasting models and the best outcome was chosen based on the lowest value of MAPE at the valuation set, and ARIMA was chosen as our model. Later, it was compared with the actual values, and it was close to it.
